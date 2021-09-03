@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imspyde
+- 👋 Hi, I’m SPYDE
 - 👀 I’m interested in Javascript, python, blockchain, GO, etc..
 - 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on 
